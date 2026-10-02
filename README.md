@@ -22,4 +22,4 @@ My goal: use genomic data and lab experiments together to find biomarkers and th
 - Interests: cancer genomics, biomarkers, computer-aided drug design
 
 ### 📫 Connect
-[LinkedIn]((https://www.linkedin.com/in/shefzy08)) · sheriffogunsola@hotmail.com
+[LinkedIn] (https://www.linkedin.com/in/shefzy08)) · sheriffogunsola@hotmail.com
