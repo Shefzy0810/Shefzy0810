@@ -18,7 +18,7 @@ My goal: use genomic data and lab experiments together to find biomarkers and th
 | Project | What it does | Tools |
 |---|---|---|
 | [tcga-crc-analysis](https://github.com/Shefzy0810/tcga-crc-analysis) | Tumour vs normal gene expression, pathways and survival in colon cancer (TCGA-COAD), with multivariable Cox, a LASSO-Cox signature and external validation in GEO (GSE39582). Code archived: [doi:10.5281/zenodo.23623271](https://doi.org/10.5281/zenodo.23623271) | R, DESeq2, clusterProfiler, survival, glmnet, GEOquery |
-| [fastq-to-counts](https://github.com/Shefzy0810/fastq-to-counts) *(in progress)* | RNA-seq from raw reads to gene counts on the airway dataset: download, QC, quantification and differential expression | Bash, WSL2/Linux, conda, SRA toolkit, FastQC, MultiQC, Salmon, tximport, DESeq2 |
+| [fastq-to-counts](https://github.com/Shefzy0810/fastq-to-counts) | Complete RNA-seq pipeline from raw reads to differential expression on the airway dataset; validated against published counts (97% of called genes confirmed, 100% direction agreement, at 10% of the sequencing depth). Code archived: [doi:10.5281/zenodo.24238646](https://doi.org/10.5281/zenodo.24238646) | Bash, WSL2/Linux, conda, SRA toolkit, FastQC, MultiQC, Salmon, tximport, DESeq2 |
 
 ### 📄 Outputs
 - Poster: *Colon tumours vs normal colon: differential gene expression, pathways and survival in TCGA-COAD RNA-seq* (2026). [doi:10.13140/RG.2.2.16664.15368](https://doi.org/10.13140/RG.2.2.16664.15368)
